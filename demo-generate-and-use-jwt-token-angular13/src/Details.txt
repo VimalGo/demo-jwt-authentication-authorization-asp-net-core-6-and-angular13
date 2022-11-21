@@ -1,0 +1,4 @@
+-  @auth0/angular-jwt library, for JWT validation and with adding the token to the HTTP requests.
+
+        CLI Command for installation:
+            npm i @auth0/angular-jwt
